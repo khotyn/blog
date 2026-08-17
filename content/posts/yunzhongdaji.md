@@ -27,42 +27,42 @@ date: 2025-08-30T09:49:19+08:00
 
 来云中大漈，颇有一种在游戏中的感觉，不是黑神话悟空，而是 RPG 的新手村，出生在一个四面环山的桃花源中，后山是雪花漈，没准还能遇到几个新手村的妖怪，😄
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/B7B2742D-C092-439B-AE8E-A3DC621F8C9E_2/rxgqZM24dhJuTW7YZYOvEmQFSwjeQPLTWfky0tMbg1Mz/Image.jpeg)
+![Image.jpeg](/blog/yunzhongdaji/01.webp)
 
 售票处的黑神话悟空联动
 
-![DSC05396.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/5FE295C6-21B3-4319-B59A-BBCC3EA3573E_2/taw3xvf0MTnBhQfEQl34kiF2yfNIjyIetAtvLfpysLEz/DSC05396.jpeg)
+![DSC05396.jpeg](/blog/yunzhongdaji/02.webp)
 
 时思寺门口
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/686738F6-2379-40E7-B729-343E66746EFF_2/myH2axxmI5Ec1wwbypmC6v4RC2mxWSyCxtsQRxAbG9wz/Image.jpeg)
+![Image.jpeg](/blog/yunzhongdaji/03.webp)
 
 大雄宝殿
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/3C1BB8F6-138E-4930-BE9C-4F5E13E69B20_2/3OkrF2WcOlykWvv0vfvLr2ZwBnr3BMZyNqMgHPhbMyQz/Image.jpeg)
+![Image.jpeg](/blog/yunzhongdaji/04.webp)
 
 心经钟楼
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/76F01BB4-1712-4440-9C6E-AAB4FB768E83_2/EZxoYfSQ2OHPiOAxCuaKFV9TplN5xVkGF6a8pZmyiH0z/Image.jpeg)
+![Image.jpeg](/blog/yunzhongdaji/05.webp)
 
 马仙宫
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/4E478FBF-A855-4CDC-BD64-2DCE64AD2AEB_2/LKOM5DlbhKp8OMMOpBNwEQr0pysE7FQnCPIfRXW0mIUz/Image.jpeg)
+![Image.jpeg](/blog/yunzhongdaji/06.webp)
 
 千年柳杉
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/DF9D6D8E-6E53-411B-A058-2F7EACDB62BA_2/wtiie3tDEfxBtyDcjNatcPE1J1Ng0yTjnaBaLZv2Um0z/Image.jpeg)
+![Image.jpeg](/blog/yunzhongdaji/07.webp)
 
 梅氏宗堂
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/BA1CE112-036D-457E-A487-676B43169A38_2/AkzK0ng3wGFi53vPgRkkxyls7wxpJd8uaRWXHOhpOY0z/Image.jpeg)
+![Image.jpeg](/blog/yunzhongdaji/08.webp)
 
 恋日桥
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/13F8F679-8CF4-4DF5-8B53-58705CDAFFA8_2/iuur4y9wNVoam56AJ0SPYGosJHtJvzX7xVwsOVkEefwz/Image.jpeg)
+![Image.jpeg](/blog/yunzhongdaji/09.webp)
 
 雪花漈
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/A1334788-EC67-4249-B402-7BFA5423D421_2/fuFCw1BYgRUlGBvOf9Uo5c7pC0eEBFmOkgfoqN1s2xoz/Image.jpeg)
+![Image.jpeg](/blog/yunzhongdaji/10.webp)
 
 雪花漈

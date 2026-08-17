@@ -12,25 +12,25 @@ date: 2024-10-07T07:30:06+08:00
 
 潮汕的基础建设给人的第一印象就像是停留在了 90 年代，很多 90 年代左右的老破房子，在景区，也有不少南洋风格的建筑（毕竟南洋很多人都是从潮汕过去的），恍惚中竟然有一种到了槟城的感受。
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3DD5AB9C-600B-4CCC-8804-961EA337C44A/A0C67EF5-E3FE-441D-9472-5197FAE637F1_2/x758afYEOzRwKnEZJNKsQV0k1falvvuVA9SqGXVQi1Az/DSC04667.jpeg)
+![image](/blog/chaoshan/01.webp)
 
 汕头小公园的建筑
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3DD5AB9C-600B-4CCC-8804-961EA337C44A/08A691ED-945B-4FC7-AC55-6BE69276C456_2/QKZg939wwuHV75VWxMw337EyFcEQyAMQz7qh7supQwsz/DSC04654.jpeg)
+![image](/blog/chaoshan/02.webp)
 
 樟林古港里的街道
 
 第二个印象是潮汕城市的脏乱，汕头市区和南澳岛随处都可以见到乱扔的垃圾，公共厕所也是难以忍受。这里尤其以南澳岛为甚，作为一个经济发达省份的景区，居然可以随处可见这么多的垃圾，不得不让人怀疑当地的治理水平，甚至让人觉得南澳岛是不是从之前的某个繁荣的状态下没落了，才到了这样的状态。
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3DD5AB9C-600B-4CCC-8804-961EA337C44A/DAA5BB8C-D419-4AC0-B3C4-09F9CCBC757F_2/WIo7d3N3vwuN4uIdExsdrtryxZYX7NcvYl8wDlrvgNEz/DSC04707.jpeg)
+![image](/blog/chaoshan/03.webp)
 
 南澳岛上度假村内看起来已经很久没有被使用的泳池
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3DD5AB9C-600B-4CCC-8804-961EA337C44A/ACBA42D7-2D79-4E21-8B9D-EFA72069038A_2/KqJYp4WstBzLI1I7XMawYNRQPhvzFyooLgsSVWhC2qUz/DSC04715.jpeg)
+![image](/blog/chaoshan/04.webp)
 
 南澳岛上随处堆放的垃圾
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3DD5AB9C-600B-4CCC-8804-961EA337C44A/658CA9F5-ED71-456F-BBED-334BFF6FDC60_2/pvGNYsAi1athj3qZdkVwIGmUGJ7WFXX5N9eaLDK2Kwoz/DSC04716.jpeg)
+![image](/blog/chaoshan/05.webp)
 
 南澳岛上厕所门口的垃圾
 
@@ -47,13 +47,13 @@ date: 2024-10-07T07:30:06+08:00
 
 猪脚饭我们去的是澄海的老柴枝猪脚饭，老柴枝猪脚饭的店就开在了国道的旁边，这个位置看起来像是国道旁的“停车吃饭”的那种店面，进去之后，店内的确也是乱糟糟的，卫生状况非常一般，装碗的菜盘子非常油，还有菜叶子粘在上面，看起来没有怎么洗过。不过吃到猪脚饭之后，感觉这个卫生状况不是什么事儿吧，这里的猪脚饭的确是非常地软嫩，有一种入口即化的感觉，虽然一碗猪脚饭里面的猪脚没有多少，但是考虑到这碗饭才 10 块钱，算是物超所值了。
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3DD5AB9C-600B-4CCC-8804-961EA337C44A/6CE8C5CA-6CD1-4036-9793-9BC940C39ECC_2/kuwbVKGMxR6PSl4nfAzmuwtwyh8R4yoiTTDxvDmDA4Iz/IMG_3346.heic)
+![image](/blog/chaoshan/06.webp)
 
 老柴枝猪脚饭
 
 当然，本次行程最最令人满意的大餐是阿荣砂锅粥，当天晚上，我骑着小电驴载着女儿去吃完，到了阿荣砂锅粥，发现排队需要 2 个小时，心想果然是一个网红店，别又坑了我们。上桌之后发现这家店意外地非常好吃，无论是海鲜粥，椒盐虾，还是膏蟹，甚至是青菜，都特别美味，这家店各种海鲜都是现杀的（明厨，可以直接看到），粥也是可以看到他们在现煮。
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3DD5AB9C-600B-4CCC-8804-961EA337C44A/0F12EB1D-C281-4B32-9EC9-0DBC99028ACF_2/odOG3hplbHWZtFa7tCiGD3NgQiCyGC0GxUuJcGB7Jekz/IMG_3369.heic)
+![image](/blog/chaoshan/07.webp)
 
 阿荣砂锅粥—师傅在现杀螃蟹
 
@@ -61,5 +61,3 @@ date: 2024-10-07T07:30:06+08:00
 
 
 总结下来，如果你对于潮汕的美食非常向往的话，那潮汕的确非常值得你去一趟，那里有太多好吃的东西，牛肉火锅，海鲜粥，这些食材的新鲜程度都是你在其他的地方吃不到的。但是千万别对它的城市，它的旅游景点抱有任何期望。
-
-

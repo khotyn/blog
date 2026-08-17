@@ -27,74 +27,78 @@ date: 2025-10-07T21:07:52+08:00
 
 经过了这次自驾，对于自驾旅行兴致更加盎然了，时间灵活可控，想要去哪里就去哪里，可以完全跟着个人的喜好以及当时的情况来，家人换着来开车，也不累。说起情况，自驾路上还是要小心，我们在去 U 型公路拍照打卡之后，把车开进了一个沙地，陷入沙地出不来，幸好经过一辆路虎，车主好心把我们拉了出来。在旅途上，能施人以援手就施人以援手，因为你不知道，美景和意外哪一个会先来。
 
-![DSC05484.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/D482A160-F0C1-4F46-9D66-FD3AF7446586_2/3ztJk5yxbdxiq9b8WFOG1JTKRi9wmH4OGIfI291rZpcz/DSC05484.jpeg)
+![DSC05484.jpeg](/blog/qinghai-and-gansu/01.webp)
 
 岗什卡雪山下的连心湖
 
-![DSC05500.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/B10FFB51-C656-410B-B7F6-386E707F0C2A_2/yy5AzgThT9N3KVxtogST05EiHoCU0Krlzu5civgVm9Uz/DSC05500.jpeg)
+![DSC05500.jpeg](/blog/qinghai-and-gansu/02.webp)
 
 经幡
 
-![DSC05581.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/92E01BC6-971A-4FF7-B849-0504EC4371E0_2/fZzcFGjFyFjruG2a0YiJOeenwu4agCRYypPnI9OvBp8z/DSC05581.jpeg)
+![DSC05581.jpeg](/blog/qinghai-and-gansu/03.webp)
 
 七彩丹霞
 
-![DSC05628.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/0E912638-B82E-4614-8A8A-8CE2C57D40EE_2/CGDaYWIzFWQCah0fMODEjdP1FvWqt49NEQGtfkrD22gz/DSC05628.jpeg)
+![DSC05628.jpeg](/blog/qinghai-and-gansu/04.webp)
 
 二尕公路垭口上的风景
 
-![DSC05711.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/AF9933A1-5E4F-47AC-8799-3C565A0BE610_2/imkEejYKzVdEyhbTvvVykbE6CEhZ8eDzxfXoqQRLxZMz/DSC05711.jpeg)
+![DSC05711.jpeg](/blog/qinghai-and-gansu/05.webp)
 
 莫高窟
 
-![DSC05765.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/73E4FEAC-CE07-4569-8E7D-B45467CD7003_2/TzN2Gdxp3UEFdZQ7gQ7CMt6gWXuttxO9yqZi9X2QXOMz/DSC05765.jpeg)
+![DSC05765.jpeg](/blog/qinghai-and-gansu/06.webp)
 
 玉门关遗址
 
-![DSC05817.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/D8C56171-6065-4654-9922-D6326B397363_2/LKjKnCbCEuxzt88y7WUSLwuRD8WAR0GZqUFLqhOBUygz/DSC05817.jpeg)
+![DSC05817.jpeg](/blog/qinghai-and-gansu/07.webp)
 
 阳关唯一的遗址：烽火台
 
-![DSC05891.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/D3FA12D9-D98B-4A93-BE5D-A7522529174D_2/f0vawvGhO6STrx7jWdpTuQw7pG7Kix3XN3CzXGQpAQEz/DSC05891.jpeg)
+![DSC05891.jpeg](/blog/qinghai-and-gansu/08.webp)
 
 黑独山
 
-![DSC05936.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/7256E39E-C8CF-461D-BBD4-44902B6AD466_2/z6vsfdCg1g71tuONHPyoTt4xKTAkinMuCB7sklmX2Qsz/DSC05936.jpeg)
+![DSC05936.jpeg](/blog/qinghai-and-gansu/09.webp)
 
 黑独山景区
 
-![DSC05967.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/D91DC30C-7335-45A2-B36A-FBA1C0942456_2/C3pvmdvCBqHYfPFHmmJQCgzeVQ7IyCR0Yo68tv1K8Egz/DSC05967.jpeg)
+![DSC05967.jpeg](/blog/qinghai-and-gansu/10.webp)
 
 黑独山景区，游客在拍照，月亮初升
 
-![DSC05977.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/196BA2DA-5068-4F8D-B908-11ACDDB231F7_2/X7v6SIXRtjGbjvWzvjgkwVmWdthytqjnrhjD4zKQrdQz/DSC05977.jpeg)
+![DSC05977.jpeg](/blog/qinghai-and-gansu/11.webp)
 
 胭脂山
 
-![DSC05997.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/E753F1CE-4E34-4C36-9099-3CF301AE1068_2/t1kiu0yRP9evj89zrExRsyIjl34xTFDPSqxZqTH56Hcz/DSC05997.jpeg)
+![DSC05997.jpeg](/blog/qinghai-and-gansu/12.webp)
 
 大柴旦翡翠湖
 
-![DSC06048.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/CB8E086C-79AD-4A72-95A0-FAFAE3E35472_2/HJp4CFpYdZhGwdFDmOGKiPyOuoKx8czIot8SrkKw3AMz/DSC06048.jpeg)
+![DSC06048.jpeg](/blog/qinghai-and-gansu/13.webp)
 
 水上雅丹
 
-![DSC06074.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/54BB8360-7176-4BE9-A8A9-C40BE0A8FD18_2/nBe9awFnTqjkcwSQsYccHlWo6Rrv3yh2uh4OZFMBipgz/DSC06074.jpeg)
+![DSC06074.jpeg](/blog/qinghai-and-gansu/14.webp)
 
 U 型公路
 
-![DSC06139.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/E05BC567-3827-4F1D-9B61-07C550D55DC1_2/rktFPf4McSxuBoaaDThJTR2Ux7d2EXJfZqb3xUmkmz8z/DSC06139.jpeg)
+![陷车的汽车](/blog/qinghai-and-gansu/15.webp)
+
+陷车了，路虎帮忙拉出来
+
+![DSC06139.jpeg](/blog/qinghai-and-gansu/16.webp)
 
 察尔汗盐湖，远处是盐矿公司
 
-![DSC06175.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/0234578D-CABB-4D65-A0AD-DCA60F7C990A_2/1yK4cmgMe4hz2NtKfqqFKC2LhH2pr66ZaMDY3ovdayUz/DSC06175.jpeg)
+![DSC06175.jpeg](/blog/qinghai-and-gansu/17.webp)
 
 茶卡盐湖，可惜是阴天
 
-![DSC06210.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/98EFA1B8-D748-4C51-9168-08FB79CD5BE3_2/3QthgisLMfEq6MPgUzO5DxJKFW5FZEXAIyUoQLmx9Zoz/DSC06210.jpeg)
+![DSC06210.jpeg](/blog/qinghai-and-gansu/18.webp)
 
 路过青海湖
 
-![DSC06213.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/7569EFAC-CB51-4CA9-9506-4B9C3D7C10F3/AC2F25E4-B14C-462B-B38F-DAF61137D070_2/bG3GHW9GDJv3s2MvjgN1xpIRRHPKb4vu2LvhRyy1aZkz/DSC06213.jpeg)
+![DSC06213.jpeg](/blog/qinghai-and-gansu/19.webp)
 
 塔尔寺

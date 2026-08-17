@@ -25,46 +25,46 @@ date: 2025-08-15T09:48:05+08:00
 
 在驱车回家的路上，经过南苕溪，夕阳西下，溪水清澈，岸边青草繁茂。就在杭州周围一小时多的车程内，有这么一个“大树王国”可以避暑，逃离城市的喧嚣和炎热，我心里感到很庆幸。
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/1D15EF78-C67B-445F-8EE7-2B09147B12B2/64C2271F-9168-4DD1-88CB-21826071B557_2/1BDSLeEvoX6bYRH1HZlR88V8nqO3P1xpOiXaDxyanEUz/Image.jpeg)
+![Image.jpeg](/blog/west-tianmu/01.webp)
 
 西天目山的古道
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/1D15EF78-C67B-445F-8EE7-2B09147B12B2/B3D6AA27-9AE4-41C7-843E-44D27CD8ECE3_2/7waPnyBbyf21gjyGVdqkoODjaj6ur7sun22Q5iLx1uwz/Image.jpeg)
+![Image.jpeg](/blog/west-tianmu/02.webp)
 
 老婆孩子在抬头看路边高大的柳杉
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/1D15EF78-C67B-445F-8EE7-2B09147B12B2/EFFD50F3-847F-437D-8F36-B005842E2F18_2/oB1XbNMae84eAD9FQLL3BHXxXhT3BDGrgVBzgtjTb0Mz/Image.jpeg)
+![Image.jpeg](/blog/west-tianmu/03.webp)
 
 “大树王”旁在悠闲地睡着午觉的猫咪
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/1D15EF78-C67B-445F-8EE7-2B09147B12B2/0E240AC9-777C-49AB-988D-77C9788799AD_2/l9h3xg95tX95UQEnonyJxtBujjxfMhCrBlyCW8zvMxAz/Image.jpeg)
+![Image.jpeg](/blog/west-tianmu/04.webp)
 
 “新大树王”繁茂的枝叶
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/1D15EF78-C67B-445F-8EE7-2B09147B12B2/F0C7CF71-0637-4F62-A6A3-1C86A046604B_2/qT0Fe3Uu4Si74xYGC4JRGbVwby8Twy0ZHK08FLnfzosz/Image.jpeg)
+![Image.jpeg](/blog/west-tianmu/05.webp)
 
 从五里亭往外远眺
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/1D15EF78-C67B-445F-8EE7-2B09147B12B2/52DC231C-6520-4B69-ABD5-A4043B946C04_2/Xo1EdO10udbIrQk0JE8lp9sRyfvTLN4aQyBIhfWEvXcz/Image.jpeg)
+![Image.jpeg](/blog/west-tianmu/06.webp)
 
 从五里亭往外远眺，阳光刚好落到近处的枝叶上
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/1D15EF78-C67B-445F-8EE7-2B09147B12B2/12887074-2746-41EB-A8CE-6B82FC00C0B9_2/GJX4TPAqxfgGpYqNbd0grBJhpPf9SW6RQ9UTN3tsdO0z/Image.jpeg)
+![Image.jpeg](/blog/west-tianmu/07.webp)
 
 知了民宿
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/1D15EF78-C67B-445F-8EE7-2B09147B12B2/05119CA0-C57B-40FF-885E-4541164C95C5_2/ku0krftOyk33rMYy8LkxBaVxO8Qxbo7SxTxwuMpEANwz/Image.jpeg)
+![Image.jpeg](/blog/west-tianmu/08.webp)
 
 禅源寺大门
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/1D15EF78-C67B-445F-8EE7-2B09147B12B2/46E1CFB0-88D7-4159-96D7-28936BF90902_2/qtvXicpBGgofmQcKMG3NmMF5UOKJpyo0lJzjaXXDzmoz/Image.jpeg)
+![Image.jpeg](/blog/west-tianmu/09.webp)
 
 禅源寺韦陀殿，殿顶长了不少青草
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/1D15EF78-C67B-445F-8EE7-2B09147B12B2/DDFEA066-484A-4D19-92AD-CB0D4DB1B753_2/kj7XMcfxcD4dbGSQI3G75OMtztyPhxXwCZxl8waRXUIz/Image.jpeg)
+![Image.jpeg](/blog/west-tianmu/10.webp)
 
 禅源寺佛塔，让人感觉仿佛来到了故宫
 
-![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/1D15EF78-C67B-445F-8EE7-2B09147B12B2/6E1E3785-4D53-4409-A2F6-534DF38809FD_2/vwvcxlOV51MvUOrBqsoWjyq16sj0dgvhkxqWMew5AMUz/Image.jpeg)
+![Image.jpeg](/blog/west-tianmu/11.webp)
 
 禅源寺一处景色，蓝天白云，黄瓦红柱

@@ -3,7 +3,7 @@ title: "从运动五分钟开始"
 date: 2022-01-01T12:41:40+08:00
 draft: 
 ---
-![d5c07f31190ff5ea22187e0e15214b2b.jpeg](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/B5F9893D-8291-49C9-BAE7-22D4D3A967B1/D6324919-B429-4534-B868-61EF3447BF08_2/OQq8ClRrF6ACXyvz5CNefXMcDIiZn522Wthmq2CpxV0z/d5c07f31190ff5ea22187e0e15214b2b.jpeg)
+![d5c07f31190ff5ea22187e0e15214b2b.jpeg](/blog/start-with-five-minutes-sport/01.webp)
 
 随着年龄跨过三十，每年体检的异常指标也原来越多，脂肪浸润，结节，肚子也越来越大，眼看着就要变成了“油腻的中年大叔”，这实在是我不想成为的样子。
 
@@ -19,7 +19,6 @@ draft:
 
 为了让运动给自己带来更多的成就感，我在 [DayOne](https://dayoneapp.com/) 上专门建立了一个日记，每次运动之后，就给自己拍一个照，记录到日记里面去，在 2021 年，一共记录了 121 次。用 DayOne 来记录的另一个好处是它的日历视图可以看到每个月的运动情况，非常直观：
 
-![Image.png](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/B5F9893D-8291-49C9-BAE7-22D4D3A967B1/88E324DF-0BC7-4E01-9D87-C49D18E4CCF3_2/idpT3YetqpJYG8s67g0iYreqxQeKUCD7Uz3iCQY0EAkz/Image.png)
+![Image.png](/blog/start-with-five-minutes-sport/02.webp)
 
 回望 2021 年，我最大的成就感应该就是把运动这件事情坚持下来了，在 2022 年，我希望能够把运动的习惯继续保持下去，尽量做到每周能够运动三次，能够带着家人一起去运动，抓住不确定的世界中少有的确定性的事情，向着美好生活前行。
-

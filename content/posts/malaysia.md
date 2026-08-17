@@ -25,98 +25,98 @@ date: 2024-05-19T19:08:32+08:00
 
 回到酒店，大堂的其他选手疑惑我这么快就跑完回来了，我说身体不舒服退赛了，对方友好地表示“See you next year”，好吧，See you，but may be not next year~
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/14343454-DFA6-4FBB-8195-E58F3FE8CBB1_2/klXD83sPjg82SRXoPnNbbN2vEJhakHoa5NoTkm2o8W8z/Image.jpeg)
+![image](/blog/malaysia/01.webp)
 
 吉隆坡的「斯里玛哈马廉曼兴都庙」，外面的印度佛像非常精美。
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/9AFBC4F5-577B-4417-A72F-4B9A86ECD047_2/xrlRB7MoqiBJwe4RUe5KVjtuDoE9vcKXCaFfmJoXMQYz/Image.jpeg)
+![image](/blog/malaysia/02.webp)
 
 在吉隆坡地铁站旁边等雨停的过程中，看到了这个黄绿方格相间的旗子，后面查了一下说是马来人一个类似粽子的食物 Ketupat，挂这个旗子是因为斋月快到了。
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/9E1F2920-AD5A-459C-81EA-CB2BDB0A4CD7_2/N3yyUPv9HE4WljwH0LLmrZLxk7WcUM0MfpRWZwr8QVcz/Image.jpeg)
+![image](/blog/malaysia/03.webp)
 
 吉隆坡独立广场
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/734C7018-64EC-4A61-A816-1C2A6A62CAB0_2/xGMloE3y26GjU12UPMhWPnXjgC6xbinZnfkgYbVKOtIz/Image.jpeg)
+![image](/blog/malaysia/04.webp)
 
 吉隆坡帕威年商场
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/C53C58E0-7316-4532-BF60-88CDE950F007_2/QqSu4DSIPt9Xk0G86Dp7lUWj23IXiIjTS8ja1UCg21wz/Image.jpeg)
+![image](/blog/malaysia/05.webp)
 
 粉红清真寺，离吉隆坡市中心大概 1 小时车程
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/45EF8ED7-8506-434E-A396-216FB0461440_2/x5yN1vQFA2elpqU9b064EEPkkH9YjiaunX1USjoxvvAz/Image.jpeg)
+![image](/blog/malaysia/06.webp)
 
 摩洛哥清真寺
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/0AA2443F-0DC1-46F4-BAB0-3B6D725B8F99_2/xViHw02zkaUx0gIdB5xdpQFIy4lfDokrIwf4q6WpdXsz/Image.jpeg)
+![image](/blog/malaysia/07.webp)
 
 伊斯兰艺术博物馆中的画作
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/1A333434-43F1-4A6F-AB9C-C85B71F5E452_2/YZ6yhqrkTWxKyu2GyJqEQxbUu7mQZpODFDYgLo5WLm8z/Image.jpeg)
+![image](/blog/malaysia/08.webp)
 
 伊斯兰艺术博物馆中的画作
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/E3771EB2-743F-4560-9BE7-CEB65C514240_2/A0gCulDEXf4PXzuhaTfHgovTKP3x9BsFNW4eyLlO8q0z/Image.jpeg)
+![image](/blog/malaysia/09.webp)
 
 伊斯兰艺术博物馆中的清真寺模型
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/B9B8ABCE-38B6-4F8F-AD20-B341D769C0EA_2/5ZSBAAxyEq23pC2mQn61IxE8W8ZPmH1PIxEVE6KoNscz/Image.jpeg)
+![image](/blog/malaysia/10.webp)
 
 槟城周姓桥的道馆
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/C4665AD4-5DA5-43F4-AF3C-B6AF374D3E1D_2/uwyUvuG4MNKIX378tmiZ1X8tHB1XCqfjlI7xFoFSYasz/Image.jpeg)
+![image](/blog/malaysia/11.webp)
 
 槟城周姓桥上的涂鸦，街头涂鸦是槟城的一大特色
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/C636F83C-0EAA-464D-8741-AFDD50C2873E_2/VCORmhIpmWp12SIrivwDapprJLxv4wqr9ifbAWEB8kkz/Image.jpeg)
+![image](/blog/malaysia/12.webp)
 
 槟城周姓桥的上停着的船只
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/D9506589-702D-4C22-9433-350FBB8FAC94_2/Bip7T3CGhoRUiHIjEMG8MUtB0GakU5BvsoQK2Qyevmsz/Image.jpeg)
+![image](/blog/malaysia/13.webp)
 
 槟城街头
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/8DF0C6B8-E4CC-41EB-B693-102BE6A2E258_2/HB1INOctyDrfNW667fcLcO5lbhnSFymNyxp4Pgjix2Mz/Image.jpeg)
+![image](/blog/malaysia/14.webp)
 
 槟城旧关仔角钟楼
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/053741AC-7CB4-465E-96D3-56BABD52BFAF_2/tLMhCNEcO8T1ApVyYfZ8HhqYHYzIMy83YUWHRIIun8Qz/Image.jpeg)
+![image](/blog/malaysia/15.webp)
 
 槟城海边的海鸟。
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/B735C845-55E8-44F5-B805-A808AF8C0DCA_2/UBPniUU5ZOGU0vW5884NAotyJvYovmh3JkuzATHH5jgz/Image.jpeg)
+![image](/blog/malaysia/16.webp)
 
 槟城极乐寺屋檐上的石龟
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/CE1B491A-5BDB-4E77-A4A4-1A87E159E83B_2/OLXStmItcZRhbfqye5DVId21kdMrYOMRn6Pbyzq5mLAz/Image.jpeg)
+![image](/blog/malaysia/17.webp)
 
 从升旗山往下拍摄槟城
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/61D7DC08-AD1D-4B58-99A6-561CB2142940_2/zuhRxy3JQGs482K6mPKeRz3NKLqUfAL9O2W0b5oSXEUz/Image.jpeg)
+![image](/blog/malaysia/18.webp)
 
 时中分校遗址，传说中闹鬼的地方
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/F29734D2-D0EA-426D-8BC6-EC48FF4437D2_2/x9c9b5F4o0gFJLxrCSNuyAxPVMGchWSjJme0ySkm4fEz/Image.jpeg)
+![image](/blog/malaysia/19.webp)
 
 槟城“富二代”餐厅
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/14F6FA2E-8F7F-41E8-B340-5BAAEBD93684_2/vItyIq2hc6rw2gXufUGKsPNUZPtHXODkNpv5288hcBwz/Image.jpeg)
+![image](/blog/malaysia/20.webp)
 
 槟城的傍晚
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/7CE61809-2DC3-45D0-8534-610C856DD93D_2/qRLiOG7yRKu5JqN5kOvlFC7gIHN2xl6d4lcMrWOu3Wwz/Image.jpeg)
+![image](/blog/malaysia/21.webp)
 
 槟城夜晚的酒吧
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/F1633F9F-0DC5-4111-9BBA-6568C0A63141_2/KsLPv7y2iddbwOdB1CKoYChxgcldRi7mIVffeSfW14wz/Image.jpeg)
+![image](/blog/malaysia/22.webp)
 
 槟城夜晚的酒吧
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/68274BE8-4E2E-478A-B011-0A2D0B0C73E1_2/3k2xT9gIvgx5Y2mWb7p7iDtcIVf52kYKk0fJ7VrqyWYz/Image.jpeg)
+![image](/blog/malaysia/23.webp)
 
 勿洞的清晨
 
-![image](https://res.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/2F50B953-9B8F-4EF9-BB8A-773E18BDAC9B/6F278B5F-52EE-40CB-812C-505AE3D36330_2/OV5BG88wffxHVu4n59UaLYjMQlUcWb0rQ90EYTeqxjEz/Image.jpeg)
+![image](/blog/malaysia/24.webp)
 
 樟宜机场厕所减碳宣传
