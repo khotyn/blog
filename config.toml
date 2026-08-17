@@ -1,0 +1,41 @@
+baseURL = 'https://khotyn.com/blog/'
+defaultContentLanguage = 'zh-cn'
+title = '小径分叉的花园'
+theme = "hugo-vitae"
+
+[languages.zh-cn]
+locale = "zh-cn"
+
+[params]
+  description = "Khotyn 的网志，记录生活，记录想法"
+  subtitle = "Khotyn 的网志，记录生活，记录想法"
+
+[[params.social]]
+name = "Github"
+icon = "fab fa-github"
+url = "https://github.com/khotyn"
+
+[[params.social]]
+name = "RSS"
+icon = "fas fa-rss"
+url = "/blog/index.xml"
+
+[[menu.main]]
+name = "主页"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "所有文章"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "运动"
+url = "https://workouts.khotyn.com"
+weight = 3
+
+[[menu.main]]
+name = "关于"
+url = "/about"
+weight = 4

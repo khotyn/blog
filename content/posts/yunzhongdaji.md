@@ -1,0 +1,68 @@
+---
+title: "🎑寻隐“云中大漈”"
+date: 2025-08-30T09:49:19+08:00
+---
+
+在黑神话悟空出来之前，我就在某次刷小红书的时候看到了丽水有一个宋代的寺庙建筑，叫做时思寺，照片中，寺门后面是一个斜倒的刺柏，非常有意境。后面黑神话悟空这个游戏出来之后，时思寺的名气一下子就大起来了。
+
+虽然丽水离杭州不远，离温州更近，但是我一直没有去过。这次趁着带着女儿去丽水玩，就“顺道”探访了时思寺。
+
+打开 Apple Map，时思寺所在的景区叫做“云中大漈”，“漈”这个字很少在国内的各个景点出现，意思是“瀑布”，“云中大漈”这个名字颇有点儿日本地名的感觉，我想大概的原因还是日文中很多字都是同中国唐宋时期的语言有一定的关联，而浙江福建地区又保留了比较多的唐宋时候的语言习惯吧。
+
+“云中大漈”四面环山，相传宋代梅氏家族从云和迁徙到了“云中大漈”，在高山沼泽中开渠排水，筑岸耕田，奠定了“云中大漈”村落的基础。
+
+我们从云和镇导航开车前往云中大漈，显示差不多一个小时到，从高速口下来之后，发现还要开 30 分钟的山路，山路一路上弯弯绕绕，路旁的一些拍子上写着“桃花源”，我心想，在古代，这可不就是桃花源么，深山老林，四面环山，估计大部分生活所需都是自给自足吧。
+
+到了云中大漈停车场，停车场的旁边还安放着一些核酸检验的方舱，停车场内车子很少，游客稀稀拉拉，本来到达云中大漈的山路就不容易吧， 所以估计来的人也不多。
+
+进入景区之后，第一个地点就是时思寺，抬头映入眼帘的首先是千年柳杉，这颗柳杉比西天目山的大树王感觉更大，更加神奇的是虽然树的中心已经空了，但是树上依旧翠叶茂盛，仔细一看，原来树干周围还有几根粗壮的树根还活着，生命力真是顽强啊。
+
+到达时思寺的门口，看到的是那颗倒下的刺柏，进入寺内，三个建筑坐落寺中，寺内非常干净，但是也没有做特别的修缮，地面上杂草丛生，更显得有一番古朴的味道了。
+
+时思寺的由来是南宋绍兴年间，梅元屃 6 岁祖父去世，在家中守孝 3 年，宋高宗感其孝顺，把他守墓的庐院赐名“时思院”。
+
+目前寺内最老的建筑是位于正中的“大雄宝殿”，建于南宋绍兴十年，距今将近 900 年的历史，目前大雄宝殿内的佛像已经荡然无存，仔细分辨，还可以看出头顶藻井上有一些壁画，不过早已经无法辨认了。位于“大雄宝殿”对面的是“心经钟楼”，建于明朝，“心经钟楼”的三楼曾经悬挂着一个 600 斤的铜钟，钟上刻有“心经”全文。位于“大雄宝殿”左侧的是“马仙宫”，建于清代，供奉马夫人。据载，马夫人是初唐时期景宁县一位贫苦织女，以代人纺织双梭清水麻布，换回粮食奉养婆婆，是一位孝媳，升天成为神仙，被后人奉为“孝仙”。马夫人是浙西南群众信仰的古老地方神，信仰文化圈遍及丽水、温州和福建松溪等地。时思寺宋明清三代建筑同堂，佛释（时思寺的隔壁是梅氏宗堂）道三教合一，颇为有趣。
+
+云中大漈的另一个景点是雪花漈，从时思寺出来之后一路前行，看到一座木桥，牌匾上写着“长虹恋日”，名曰“恋日桥”，过了这座桥，前方就是雪花漈，雪花漈真的如其名，瀑布的水如雪花般飘下，在阳光的照耀下闪着点点金光，非常漂亮。再沿着景区路线往前走，爬山一小段山路，到了如来掌，如来掌是一块崩塌的岩石，形似如来掌。再往前景区地图上显示可以步行一路朝前回到景区入口，不过路牌上写着“游人禁止”，看了一下前面的路，似乎有塌方，我们只能作罢原路返回。
+
+来云中大漈，颇有一种在游戏中的感觉，不是黑神话悟空，而是 RPG 的新手村，出生在一个四面环山的桃花源中，后山是雪花漈，没准还能遇到几个新手村的妖怪，😄
+
+![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/B7B2742D-C092-439B-AE8E-A3DC621F8C9E_2/rxgqZM24dhJuTW7YZYOvEmQFSwjeQPLTWfky0tMbg1Mz/Image.jpeg)
+
+售票处的黑神话悟空联动
+
+![DSC05396.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/5FE295C6-21B3-4319-B59A-BBCC3EA3573E_2/taw3xvf0MTnBhQfEQl34kiF2yfNIjyIetAtvLfpysLEz/DSC05396.jpeg)
+
+时思寺门口
+
+![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/686738F6-2379-40E7-B729-343E66746EFF_2/myH2axxmI5Ec1wwbypmC6v4RC2mxWSyCxtsQRxAbG9wz/Image.jpeg)
+
+大雄宝殿
+
+![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/3C1BB8F6-138E-4930-BE9C-4F5E13E69B20_2/3OkrF2WcOlykWvv0vfvLr2ZwBnr3BMZyNqMgHPhbMyQz/Image.jpeg)
+
+心经钟楼
+
+![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/76F01BB4-1712-4440-9C6E-AAB4FB768E83_2/EZxoYfSQ2OHPiOAxCuaKFV9TplN5xVkGF6a8pZmyiH0z/Image.jpeg)
+
+马仙宫
+
+![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/4E478FBF-A855-4CDC-BD64-2DCE64AD2AEB_2/LKOM5DlbhKp8OMMOpBNwEQr0pysE7FQnCPIfRXW0mIUz/Image.jpeg)
+
+千年柳杉
+
+![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/DF9D6D8E-6E53-411B-A058-2F7EACDB62BA_2/wtiie3tDEfxBtyDcjNatcPE1J1Ng0yTjnaBaLZv2Um0z/Image.jpeg)
+
+梅氏宗堂
+
+![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/BA1CE112-036D-457E-A487-676B43169A38_2/AkzK0ng3wGFi53vPgRkkxyls7wxpJd8uaRWXHOhpOY0z/Image.jpeg)
+
+恋日桥
+
+![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/13F8F679-8CF4-4DF5-8B53-58705CDAFFA8_2/iuur4y9wNVoam56AJ0SPYGosJHtJvzX7xVwsOVkEefwz/Image.jpeg)
+
+雪花漈
+
+![Image.jpeg](https://resv2.craft.do/user/full/39a5826c-5ffb-440a-cc14-37e4f6cf3304/doc/3653A1EF-56DC-4F41-B31D-11DD8B0B53B0/A1334788-EC67-4249-B402-7BFA5423D421_2/fuFCw1BYgRUlGBvOf9Uo5c7pC0eEBFmOkgfoqN1s2xoz/Image.jpeg)
+
+雪花漈
