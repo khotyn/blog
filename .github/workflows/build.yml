@@ -29,3 +29,40 @@ jobs:
 
       - name: Build site
         run: hugo --gc --minify
+
+      - name: Configure deployment SSH key
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        env:
+          BLOG_DEPLOY_SECRET: ${{ secrets.BLOG_DEPLOY_SECRET }}
+        run: |
+          install -d -m 700 "${HOME}/.ssh"
+          printf '%s\n' "${BLOG_DEPLOY_SECRET}" > "${HOME}/.ssh/blog_deploy"
+          chmod 600 "${HOME}/.ssh/blog_deploy"
+          printf '%s\n' \
+            '178.157.58.92 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBP8sJibUEDU+QQ+jueQD390EvjGM7aAYhrTyrjhUUyZ' \
+            > "${HOME}/.ssh/known_hosts"
+          chmod 600 "${HOME}/.ssh/known_hosts"
+          test "$(ssh-keygen -y -f "${HOME}/.ssh/blog_deploy")" = \
+            'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGzP8EQqS6NqksMWrcdynvnbHP/IYTHxHuvE/2Yh98KM'
+
+      - name: Package site
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: tar -C public -czf "${RUNNER_TEMP}/blog-${GITHUB_SHA}.tar.gz" .
+
+      - name: Upload site
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          scp -o IdentitiesOnly=yes -i "${HOME}/.ssh/blog_deploy" \
+            "${RUNNER_TEMP}/blog-${GITHUB_SHA}.tar.gz" \
+            "blogdeploy@178.157.58.92:/srv/blog/"
+
+      - name: Activate release
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          ssh -o IdentitiesOnly=yes -i "${HOME}/.ssh/blog_deploy" \
+            blogdeploy@178.157.58.92 \
+            "set -e
+            mkdir -p '/srv/blog/releases/${GITHUB_SHA}'
+            tar -xzf '/srv/blog/blog-${GITHUB_SHA}.tar.gz' -C '/srv/blog/releases/${GITHUB_SHA}'
+            ln -sfn '/srv/blog/releases/${GITHUB_SHA}' '/srv/blog/current'
+            rm -f '/srv/blog/blog-${GITHUB_SHA}.tar.gz'"
