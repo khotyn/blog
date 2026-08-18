@@ -31,11 +31,6 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "运动"
-url = "https://workouts.khotyn.com"
-weight = 3
-
-[[menu.main]]
 name = "关于"
 url = "/about"
 weight = 4
