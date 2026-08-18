@@ -1,4 +1,14 @@
 {{- define "main" }}
+{{- $hasTOC := gt (len .Fragments.Headings) 0 }}
+<div class="post-layout{{ if $hasTOC }} has-toc{{ end }}">
+{{- if $hasTOC }}
+<aside class="post-toc" aria-label="文章目录">
+<div class="post-toc-inner">
+<p class="post-toc-title">目录</p>
+{{ .TableOfContents }}
+</div>
+</aside>
+{{- end }}
 <div class="post">
 <article>
 {{- if isset .Params "images" }}
@@ -74,5 +84,9 @@
 {{- end }}
 {{- end }}
 </article>
+</div>
+{{- if $hasTOC }}
+<script defer src="{{ relURL "js/toc.js" }}"></script>
+{{- end }}
 </div>
 {{- end }}
