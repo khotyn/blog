@@ -7,6 +7,7 @@ theme = "hugo-vitae"
 locale = "zh-cn"
 
 [params]
+favicon = true
   description = "Khotyn 的网志，记录生活，记录想法"
   subtitle = "Ting 的生活与想法记录"
 
