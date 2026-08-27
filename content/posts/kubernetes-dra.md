@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes DRA"
-date: 2026-08-27T18:30:00+08:00
+date: 2026-08-27T18:25:00+08:00
 ---
 
 Kubernetes 的 DRA 是 Dynamic Resource Allocation 的缩写，这几年 GPU 调度的问题随着 AI 的这一波的兴起被放大。有些时候，我们需要把一张卡虚拟化成多张卡来给不同的 Workload 使用，以提升资源的利用效率，DRA 主要就是为了解决这些问题，类似 K8s 的 PVC 机制一样。
