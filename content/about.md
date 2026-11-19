@@ -10,6 +10,8 @@ Ting，目前就职于蚂蚁集团（花名鲁直），平台技术事业群总�
 
 - **2026 年 9 月 23 日，杭州云栖大会「智启原生 研见未来」阿里巴巴集团 AI Native 研发实践论坛**：分享蚂蚁集团的 AI Native 研发范式实践。详见机器之心报道：[《代码生成越来越快，软件交付真正的瓶颈转向了哪里？》](https://mp.weixin.qq.com/s/Q7Bxnogof3OI3jmWjTnL4g)。
 
+- **2021 年 4 月 25–26 日，ArchSummit 全球架构师峰会（上海站）**：担任「微服务架构」专题出品人。详见[大会专题页面](https://archsummit.infoq.cn/2021/shanghai/track/1027)。
+
 ## 联系方式
 * Email：hting1@gmail.com
 * 微信：khotyn，或者扫下面的二维码，添加的时候请备注来意
