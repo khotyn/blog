@@ -10,6 +10,8 @@ Ting，目前就职于蚂蚁集团（花名鲁直），平台技术事业群总�
 
 - **2026 年 9 月 23 日，杭州云栖大会「智启原生 研见未来」阿里巴巴集团 AI Native 研发实践论坛**：分享蚂蚁集团的 AI Native 研发范式实践。详见机器之心报道：[《代码生成越来越快，软件交付真正的瓶颈转向了哪里？》](https://mp.weixin.qq.com/s/Q7Bxnogof3OI3jmWjTnL4g)。
 
+- **2023 年 12 月 24 日，ALC Beijing Podcast 第 33 期**：作为嘉宾参与[《开源与 ESG 能产生哪些碰撞》](https://www.xiaoyuzhoufm.com/episode/658839c86a0961c8d78e9ade)，与姜宁、边思康一起探讨开源的商业价值、社会影响与可持续发展。
+
 - **2021 年 4 月 25–26 日，ArchSummit 全球架构师峰会（上海站）**：担任「微服务架构」专题出品人。详见[大会专题页面](https://archsummit.infoq.cn/2021/shanghai/track/1027)。
 
 ## 联系方式
